@@ -1,0 +1,49 @@
+
+
+// MARK: - movieListScreen
+
+"movieListScreen.title" = "List of movies";
+"movieListScreen.duration" = "Duration: ";
+"movieListScreen.year" = "Year: ";
+"movieListScreen.request" = "Enter your request";
+
+// MARK: - movieDetailScreen
+
+"movieDetailScreen.duration" = "Duration: ";
+"movieDetailScreen.plot" = "Plot: ";
+"movieDetailScreen.back" = "Back";
+
+// MARK: - networking
+
+"networking.guardData" = "You've got data = nil.";
+"networking.catchData" = "Just catch error.";
+"networking.response" = "Failure with response to server.";
+"networking.information" = "Information from server.";
+"networking.clientError" = "You've got some client error.";
+"networking.recursive" = "Recursive error.";
+"networking.authError" = "Error of authorization.";
+"networking.serverError" = "Server error.";
+
+// MARK: - movieListScreen
+
+"movieListScreen.alert.failure" = "Failure - ";
+"movieListScreen.alert.statusCode" = "StatusCode: -";
+"movieListScreen.alert.cancel" = "Cancel";
+"movieListScreen.alert.title" = "Alert";
+
+// MARK: - accountViewModel
+
+"accountViewModel.emptyLogin" = "Empty login";
+"accountViewModel.emptyPassword" = "Empty password";
+"accountViewModel.incorrectLogin" = "Incorrect login";
+"accountViewModel.incorrectPassword" = "Incorrect password";
+
+// MARK: - accountScreen
+
+"accountScreen.title" = "Log in";
+"accountScreen.alertTitle" = "Alert";
+"accountScreen.alertCancel" = "Cancel";
+"accountScreen.login" = "Enter your login";
+"accountScreen.password" = "Enter your password";
+"accountScreen.rulesOne" = "To read more about ";
+"accountScreen.rulesTwo" = "privacy policy";

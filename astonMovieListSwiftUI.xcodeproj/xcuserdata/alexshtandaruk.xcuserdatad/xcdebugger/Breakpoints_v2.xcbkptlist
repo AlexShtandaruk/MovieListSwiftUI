@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C7E77CC-0CC5-4A3D-A875-14DD46958159"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AF0A24A-23FF-4CE4-9CC7-CCD54442928A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "astonMovieListSwiftUI/Screens/MovieList/ViewModel/MovieListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9AF0A24A-23FF-4CE4-9CC7-CCD54442928A - 95b47ffa91a9e35b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (astonMovieListSwiftUI.BackendOperationResult&lt;Swift.Optional&lt;astonMovieListSwiftUI.Movie&gt;, astonMovieListSwiftUI.BackendError&gt;) -&gt; () in astonMovieListSwiftUI.MovieListViewModel.getData() -&gt; ()"
+                  moduleName = "astonMovieListSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexshtandaruk/Downloads/SwiftUI/astonMovieListSwiftUI/astonMovieListSwiftUI/Screens/MovieList/ViewModel/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "864">
+               </Location>
+               <Location
+                  uuid = "9AF0A24A-23FF-4CE4-9CC7-CCD54442928A - 95b47ffa91a9e37a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (astonMovieListSwiftUI.BackendOperationResult&lt;Swift.Optional&lt;astonMovieListSwiftUI.Movie&gt;, astonMovieListSwiftUI.BackendError&gt;) -&gt; () in astonMovieListSwiftUI.MovieListViewModel.getData() -&gt; ()"
+                  moduleName = "astonMovieListSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexshtandaruk/Downloads/SwiftUI/astonMovieListSwiftUI/astonMovieListSwiftUI/Screens/MovieList/ViewModel/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C15F2B58-1DDC-48AB-BE2F-91DB12D1AFB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "astonMovieListSwiftUI/Screens/MovieList/ViewModel/MovieListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C15F2B58-1DDC-48AB-BE2F-91DB12D1AFB2 - 8e7af23bfd8d0996"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "astonMovieListSwiftUI.MovieListViewModel.getData() -&gt; ()"
+                  moduleName = "astonMovieListSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexshtandaruk/Downloads/SwiftUI/astonMovieListSwiftUI/astonMovieListSwiftUI/Screens/MovieList/ViewModel/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "C15F2B58-1DDC-48AB-BE2F-91DB12D1AFB2 - 8e7af23bfd8d09f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "astonMovieListSwiftUI.MovieListViewModel.getData() -&gt; ()"
+                  moduleName = "astonMovieListSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexshtandaruk/Downloads/SwiftUI/astonMovieListSwiftUI/astonMovieListSwiftUI/Screens/MovieList/ViewModel/MovieListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "134562B8-DE91-428D-8DAB-BF11D24CCFE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "astonMovieListSwiftUI/Screens/MovieList/Screen/MovieListScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "init(viewModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
