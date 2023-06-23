@@ -5,12 +5,16 @@ struct astonMovieListSwiftUIApp: App {
     
     private var configurator: Configurator? = nil
     
-    init() { configurate() }
+    @AppStorage("logStatus") var logStatus: Bool = false
+    
+    init() {
+        configurate()
+        logStatus = false
+    }
     
     var body: some Scene {
         WindowGroup {
-            MainTabView()
-                .environmentObject(ConfigManager.shared.router)
+            ContentView()
         }
     }
     

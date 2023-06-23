@@ -47,3 +47,8 @@
 "accountScreen.password" = "Enter your password";
 "accountScreen.rulesOne" = "To read more about ";
 "accountScreen.rulesTwo" = "privacy policy";
+
+// MARK: - accountScreen
+
+"sideMenuView.createdBy" = "Created by Shtandaruk";
+"sideMenuView.viewProfileButton" = "View profile";

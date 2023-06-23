@@ -1,6 +1,6 @@
 import Foundation
 
-class ServiceLocator {
+final class ServiceLocator {
     
     static let shared = ServiceLocator()
     

@@ -5,8 +5,12 @@ extension View {
     func toAnyView() -> AnyView {
         AnyView(self)
     }
-    
-    func modifierForTextField() -> some View {
-        modifier(TextFieldModilfier())
+}
+
+// extending view to get screen side
+
+extension View {
+    func getRect() -> CGRect {
+        return UIScreen.main.bounds
     }
 }
